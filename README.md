@@ -16,6 +16,7 @@ Fonte do Gif: https://pt.wikipedia.org/wiki/Selection_sort
 <a href="https://br.pinterest.com/pin/681873199869286101/">
     <img src="https://github.com/user-attachments/assets/425b9e5c-1e0a-47cd-9c07-07c36d65386d" alt="Selection_sort" align="right" width="400" height="600">
 </a>
+
 ### Passo a Passo do Algoritmo:
 1. Encontre o menor elemento no array e troque-o com o primeiro elemento.
 2. Encontre o segundo menor elemento e troque-o com o segundo elemento.
